@@ -1,0 +1,22 @@
+,,points_left,points_collinear,points_right
+epsilon,det_fn,,,,,,
+0.0,<function det3x3 at 0x7b9428182950>,50170.0,,0.0,,49830.0,
+0.0,<function det2x2 at 0x7b94281829e0>,,50187.0,,0.0,,49813.0
+0.0,<function det3x3_numpy at 0x7b9428182a70>,,50187.0,,0.0,,49813.0
+0.0,<function det2x2_numpy at 0x7b9428182b00>,,50187.0,,0.0,,49813.0
+1e-14,<function det3x3 at 0x7b9428182950>,50170.0,,0.0,,49830.0,
+1e-14,<function det2x2 at 0x7b94281829e0>,,50187.0,,0.0,,49813.0
+1e-14,<function det3x3_numpy at 0x7b9428182a70>,,50187.0,,0.0,,49813.0
+1e-14,<function det2x2_numpy at 0x7b9428182b00>,,50187.0,,0.0,,49813.0
+1e-12,<function det3x3 at 0x7b9428182950>,50170.0,,0.0,,49830.0,
+1e-12,<function det2x2 at 0x7b94281829e0>,,50187.0,,0.0,,49813.0
+1e-12,<function det3x3_numpy at 0x7b9428182a70>,,50187.0,,0.0,,49813.0
+1e-12,<function det2x2_numpy at 0x7b9428182b00>,,50187.0,,0.0,,49813.0
+1e-10,<function det3x3 at 0x7b9428182950>,50170.0,,0.0,,49830.0,
+1e-10,<function det2x2 at 0x7b94281829e0>,,50187.0,,0.0,,49813.0
+1e-10,<function det3x3_numpy at 0x7b9428182a70>,,50187.0,,0.0,,49813.0
+1e-10,<function det2x2_numpy at 0x7b9428182b00>,,50187.0,,0.0,,49813.0
+1e-08,<function det3x3 at 0x7b9428182950>,50170.0,,0.0,,49830.0,
+1e-08,<function det2x2 at 0x7b94281829e0>,,50187.0,,0.0,,49813.0
+1e-08,<function det3x3_numpy at 0x7b9428182a70>,,50187.0,,0.0,,49813.0
+1e-08,<function det2x2_numpy at 0x7b9428182b00>,,50187.0,,0.0,,49813.0
